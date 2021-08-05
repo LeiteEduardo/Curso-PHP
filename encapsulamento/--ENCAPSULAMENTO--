@@ -1,0 +1,4 @@
+--ENCAPSULAMENTO--
+-> Public pode ser acessada na classe, na classe extendida e no objeto; 
+-> Protected, apenas na mesma classe e classe extendida;
+-> Private, apenas na mesma classe;
